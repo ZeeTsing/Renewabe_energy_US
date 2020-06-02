@@ -1,0 +1,19 @@
+,Files,,,,,
+Schemas,Cities_2017-2019,CC_Summary_2015-2020,Water_Summary_2015-2019,2015-2017_Corporate_CC,2018-2019_Corporate_CC,2015-2019_Corporate_Water
+,Project Year,Program Name,Program Name,Project Year,Project Year,Project Year
+,Account Number,Project Year,Project Year,Account Number,Account Number,Account Number
+,Account Name,Account Number,Account Number,Account Name,Account Name,Account Name
+,Question Number,Account Name,Account Name,Question Number,Question Number,Question Number
+,Question Name,Ticker,Ticker,Question Name,Question Name,Question Name
+,Row Number,ISIN,ISIN,Row Number,Row Number,Row Number
+,Row Name,GICS_sector,Activities,Row Name,Row Name,Row Name
+,Column Number,GICS_Industry_Group,Sectors,Column Number,Column Number,Column Number
+,Column Name,GICS_Industry,Industries,Column Name,Column Name,Column Name
+,Response Answer,GICS_Sub_Industry,Primary activity,Response Answer,Response Answer,Response Answer
+,Comments,Activities,Primary sector,,,
+,File Name,Sectors,Primary industry,,,
+,,Industries,Primary questionnaire sector,,,
+,,Primary activity,,,,
+,,Primary sector,,,,
+,,Primary industry,,,,
+,,Primary questionnaire sector,,,,

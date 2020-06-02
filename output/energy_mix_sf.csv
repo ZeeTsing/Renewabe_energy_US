@@ -1,0 +1,11 @@
+ Energy source, Percent,Renewable?,city_full
+Coal,0,0,City of San Francisco
+Gas,25,0,City of San Francisco
+Oil,0,0,City of San Francisco
+Nuclear,23,0,City of San Francisco
+Hydro,7,1,City of San Francisco
+Biomass,4,1,City of San Francisco
+Wind,8,1,City of San Francisco
+Geothermal,5,1,City of San Francisco
+Solar,11,1,City of San Francisco
+Unknown sources,17,0,City of San Francisco
